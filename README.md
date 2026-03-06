@@ -25,9 +25,7 @@ Where A, B are vertical distances and C is the horizontal distance between eye l
 - MediaPipe
 - NumPy
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 ```bash
 pip install opencv-python mediapipe numpy
 ```
